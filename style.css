@@ -73,7 +73,7 @@ nav{
     right: 100px;
     top: 638px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 30px 50px;
 }
 .intro-contacts i{
