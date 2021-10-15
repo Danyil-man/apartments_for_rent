@@ -53,7 +53,7 @@ nav{
 .intro{
     margin-top: 25px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 .intro-img{
     background-image: url(img/architecture-839362_1280.jpg);
